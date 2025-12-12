@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MAYANK SHARMA</h1>
-<h3 align="center">Student at IIT Jodhpur , An extraordinary Mutli-skilled Nerd | n8n MASTERED | DATA SCIENTIST | AI ENGINEER | FREELANCER | DATA ANALYST | VIBE CODER | FRAMER EXPER !</h3>
+<h3 align="center">Student at IIT Jodhpur , An extraordinary Mutli-skilled Nerd | n8n MASTERED | DATA SCIENTIST | AI ENGINEER | FREELANCER | DATA ANALYST | VIBE CODER | FRAMER EXPERT !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-iitj&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-iitj" /> </p>
 
