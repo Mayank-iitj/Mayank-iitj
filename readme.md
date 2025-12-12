@@ -13,7 +13,7 @@
 
 - Engineered [Customer-Churn-Prediction](https://github.com/Mayank-iitj/customer-churn-prediction)
 
-- 👨‍💻 All of my projects are available at [https://msiitj.framer.website](https://msiitj.framer.website)
+- 👨‍💻 All of my projects are available at [https://m4mayank.my.canva.site](https://m4mayank.my.canva.site)
 
 - 📝 I regularly write articles on [linkedin.com/in/mayankiitj](linkedin.com/in/mayankiitj)
 
